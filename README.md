@@ -12,7 +12,7 @@
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 🍕  I enjoy travelling, studying English and spending time with my family<br><br>
 🚀 Reach me out:<br><br>
-    $\color{green}{test}$
+    ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
     </section>
 
 <section>
