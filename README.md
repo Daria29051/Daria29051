@@ -14,8 +14,9 @@
 
   <section>
     <h2> Contacts </h2>
-    <a href="https://t.me/darialant" target="_blank">Telegram</a><br>
-    <a href="mailto:daria.lantyugova@mail.ru target="_blank">Email</a><br>
-    <a href="#" target="_blank">LinkedIn</a>
+    
+    <p><a href="https://t.me/darialant" target="_blank">Telegram</a>
+    <p><a href="mailto:daria.lantyugova@mail.ru target="_blank">Email</a></p>
+    <p><a href="#" target="_blank">LinkedIn</a></p>
     </section>
 </main>
