@@ -11,7 +11,7 @@
 💻 I work on JavaScript and React.js<br><br>
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 🍕  I enjoy travelling, studying English and spending time with my family<br><br>
-🚀 Reach me out:  daria.lantyugova@mail.ru <br><br>
+🚀 Reach me out: https://placehold.it/150/ffffff/ff0000?text=daria.lantyugova@mail.ru  <br><br>
     </section>
 
 <section>
