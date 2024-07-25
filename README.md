@@ -36,6 +36,6 @@
 
 <section>
   <h2>Most used languages</h2>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact&theme=vision-friendly-dark)
+  [![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact&theme=vision-friendly-dark)]
 </section>
 </main>
