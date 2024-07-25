@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Daria and I`m Frontend Developer from Moscow.
-<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNpMjd4ZTAzdGZnYzY1cDB4dzQxZDFvd2o5dXZ0dTJ6eXZ4Z2dsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif' width='200'/>
+My name is Daria and I`m Frontend Developer from Moscow.<br/>
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNpMjd4ZTAzdGZnYzY1cDB4dzQxZDFvd2o5dXZ0dTJ6eXZ4Z2dsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif' width='300'/>
 
 <!--
 **Daria29051/Daria29051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
