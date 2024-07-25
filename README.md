@@ -36,6 +36,6 @@
 
 <section>
   <h2>Most used languages</h2>
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daria29051&langs_count=5&theme=tokyonight)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051)]
 </section>
 </main>
