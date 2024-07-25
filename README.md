@@ -10,7 +10,7 @@
 💻 I work on JavaScript and React.js<br><br>
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 🍕  I enjoy travelling, studying English and spending time with my family<br><br>
-🚀 Reach me out: <span color="pink">daria.lantyugova@mail.ru</span> <br><br>
+🚀 Reach me out: <span style="color: pink">daria.lantyugova@mail.ru</span> <br><br>
     </section>
 
 <section>
