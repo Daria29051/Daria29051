@@ -12,7 +12,7 @@
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 🍕  I enjoy travelling, studying English and spending time with my family<br><br>
 🚀 Reach me out:<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
-    <text x="0" y="15" fill="#FF1493">G</text>
+    <text x="0" y="15" fill="#FF1493">Google</text>
 </svg><br><br>
 
     </section>
