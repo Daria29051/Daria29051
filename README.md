@@ -19,4 +19,8 @@
   <p><a href="#" target="_blank">LinkedIn</a></p>
   </section>
 
+<section>
+  <h2>Technologies</h2>
+  
+</section>
 </main>
