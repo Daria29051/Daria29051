@@ -11,7 +11,7 @@
 💻 I work on JavaScript and React.js<br><br>
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 🍕  I enjoy travelling, studying English and spending time with my family<br><br>
-🚀 Reach me out: https://placehold.it/150/ffffff/ff0000?text=daria.lantyugova@mail.ru  <br><br>
+🚀 Reach me out: daria.lantyugova@mail.ru  <br><br>
     </section>
 
 <section>
@@ -36,6 +36,6 @@
 
 <section>
   <h2>Most used languages</h2>
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact)
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daria29051&langs_count=5&theme=tokyonight)]()
 </section>
 </main>
