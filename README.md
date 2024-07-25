@@ -36,7 +36,7 @@
 
 <section>
   <h2>Most used languages</h2>
-  ![image]https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact&theme=vision-friendly-dark)
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact&theme=vision-friendly-dark" alt="Lang Stat">
+ 
 </section>
 </main>
