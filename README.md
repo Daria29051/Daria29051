@@ -4,11 +4,18 @@
 </header>
 <main>
   Hi there 👋<br>
-  <h2> About me </h2>
   <section>
+    <h2> About me </h2>
   My name is Daria and I am Frontend Developer from Moscow.<br><br>
 💻 I work on JavaScript and React.js<br><br>
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 📖 I enjoy travelling, studying English and spending time with my family
+    </section>
+
+  <section>
+    <h2> Contacts </h2>
+    <a href="https://t.me/darialant" target="blank">Telegram</a>
+    <a href="" target="blank">Email</a>
+    <a href="" target="blank">LinkedIn</a>
     </section>
 </main>
