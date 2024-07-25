@@ -5,8 +5,10 @@
 <main>
   Hi there 👋<br>
   <h2> About me </h2>
+  <section>
   My name is Daria and I am Frontend Developer from Moscow.<br><br>
 💻 I work on JavaScript and React.js<br><br>
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 📖 I enjoy travelling, studying English and spending time with my family
+    </section>
 </main>
