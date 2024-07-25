@@ -4,7 +4,7 @@
 </header>
 <main>
   Hi there 👋<br>
-  <h1> About me </h1>
+  <h2> About me </h2>
   My name is Daria and I am Frontend Developer from Moscow.<br><br>
 💻 I work on JavaScript and React.js<br><br>
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
