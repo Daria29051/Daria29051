@@ -4,8 +4,8 @@
 </header>
 <main>
   Hi there 👋<br>
-  My name is Daria and I am Frontend Developer from Moscow.<br>
-💻 Working on JavaScript and React.js<br>
-🎓 Exploring TypeScript and Next.js<br>
+  My name is Daria and I am Frontend Developer from Moscow.<br><br>
+💻 Working on JavaScript and React.js<br><br>
+🎓 Exploring TypeScript and Next.js<br><br>
 📖 Enjoy travelling, studying English and spending time with my family
 </main>
