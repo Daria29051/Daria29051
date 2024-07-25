@@ -37,6 +37,5 @@
 <section>
   <h2>Most used languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria29051&layout=compact&theme=vision-friendly-dark" alt="Lang Stat">
- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 </section>
 </main>
