@@ -12,8 +12,7 @@
 🎓 I`m currently exploring TypeScript and Next.js<br><br>
 🍕  I enjoy travelling, studying English and spending time with my family<br><br>
 🚀 Reach me out:<br><br>
-    # ${This\ is\ a\ {\color{red}Big}}\ Title$
-    ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
     </section>
 
 <section>
