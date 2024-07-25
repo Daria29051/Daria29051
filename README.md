@@ -5,4 +5,7 @@
 <main>
   Hi there 👋<br>
   My name is Daria and I am Frontend Developer from Moscow.
+💻 Working on JavaScript and React.js
+🎓 Exploring TypeScript and Next.js
+📖 Enjoy travelling, studying English and spending time with my family
 </main>
